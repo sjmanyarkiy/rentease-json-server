@@ -4,5 +4,5 @@ A RESTful API built with JSON Server for managing properties, bookings, and tena
 
 ## 🚀 Live API
 
-The API is deployed on Render at: `[https://your-app-name.onrender.com](https://rentease-json-server.onrender.com)`
+The API is deployed on Render at: `[https://rentease-json-server.onrender.com](https://rentease-json-server.onrender.com)`
 
